@@ -1,0 +1,20 @@
+{
+	"name"        : "knawrocki/simple-line-icons",
+	"description" : "Simple line icons with CSS, SASS, LESS & Web-fonts files.",
+	"version"     : "1.0.0",
+	"license"     : "MIT",
+	"authors": [
+		{
+	    "name" : "Jamal Jama",
+	    "url" : "https://twitter.com/byjml"
+		},
+    		{
+	    "name" : "Ahmad Firoz",
+	    "url" : "https://twitter.com/firoz_usf"
+		}
+	],
+  "contributors": {
+    "url": "https://github.com/thesabbir/simple-line-icons/graphs/contributors"
+  }
+
+}
